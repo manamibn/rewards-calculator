@@ -16,8 +16,6 @@ every dollar spent between $50 and $100 in each transaction.
 Given a record of every transaction during a three month period, calculate the reward points earned
 for each customer per month and total.
                     
-                    ----- ------ ------ ------ -----
-
 
 # Getting Started with Create React App
 
