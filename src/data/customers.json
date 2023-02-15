@@ -1,0 +1,393 @@
+[
+  {
+    "id": "0001",
+    "name": "Philip Weeks",
+    "transactions": [
+      {
+        "date": "Feb 13, 2022",
+        "amount_spent": 245.34
+      },
+      {
+        "date": "Feb 7, 2023",
+        "amount_spent": 419.45
+      },
+      {
+        "date": "Feb 3, 2023",
+        "amount_spent": 500.56
+      },
+      {
+        "date": "Jan 28, 2023",
+        "amount_spent": 366.8
+      },
+      {
+        "date": "Jan 23, 2023",
+        "amount_spent": 433.18
+      },
+      {
+        "date": "Jan 18, 2023",
+        "amount_spent": 333.16
+      },
+      {
+        "date": "Jan 14, 2023",
+        "amount_spent": 111.12
+      },
+      {
+        "date": "Jan 11, 2023",
+        "amount_spent": 38.52
+      },
+      {
+        "date": "Jan 05, 2023",
+        "amount_spent": 200.71
+      },
+      {
+        "date": "Dec 29, 2022",
+        "amount_spent": 100.56
+      },
+      {
+        "date": "Dec 24, 2022",
+        "amount_spent": 27.6
+      },
+      {
+        "date": "Dec 15, 2022",
+        "amount_spent": 235.47
+      },
+      {
+        "date": "Dec 10, 2022",
+        "amount_spent": 5.48
+      },
+      {
+        "date": "Dec 04, 2022",
+        "amount_spent": 155.4
+      },
+      {
+        "date": "Nov 27, 2022",
+        "amount_spent": 230.66
+      },
+      {
+        "date": "Nov 23, 2022",
+        "amount_spent": 10.78
+      },
+      {
+        "date": "Nov 12, 2022",
+        "amount_spent": 135.98
+      },
+      {
+        "date": "Jan 13, 2022",
+        "amount_spent": 100.0
+      }
+    ]
+  },
+  {
+    "id": "0002",
+    "name": "Carson Puckett",
+    "transactions": [
+      {
+        "date": "Feb 14, 2023",
+        "amount_spent": 218.17
+      },
+      {
+        "date": "Feb 10, 2023",
+        "amount_spent": 250.87
+      },
+      {
+        "date": "Feb 06, 2023",
+        "amount_spent": 3000.99
+      },
+      {
+        "date": "Jan 31, 2023",
+        "amount_spent": 3214.71
+      },
+      {
+        "date": "Jan 24, 2023",
+        "amount_spent": 1000.54
+      },
+      {
+        "date": "Jan 21, 2023",
+        "amount_spent": 213.68
+      },
+      {
+        "date": "Jan 15, 2023",
+        "amount_spent": 765.76
+      },
+      {
+        "date": "Jan 11, 2023",
+        "amount_spent": 38.46
+      },
+      {
+        "date": "Jan 02, 2023",
+        "amount_spent": 45.58
+      },
+      {
+        "date": "Dec 0221, 2022",
+        "amount_spent": 300.59
+      },
+      {
+        "date": "Dec 18, 2022",
+        "amount_spent": 39.0
+      },
+      {
+        "date": "Dec 13, 2022",
+        "amount_spent": 545.46
+      },
+      {
+        "date": "Dec 11, 2022",
+        "amount_spent": 15.95
+      },
+      {
+        "date": "Dec 08, 2022",
+        "amount_spent": 1200.29
+      },
+      {
+        "date": "Nov 25, 2022",
+        "amount_spent": 234.46
+      },
+      {
+        "date": "Nov 19, 2022",
+        "amount_spent": 1256.67
+      },
+      {
+        "date": "Nov 03, 2022",
+        "amount_spent": 127.99
+      },
+      {
+        "date": "Feb 03, 2022",
+        "amount_spent": 176.25
+      }
+    ]
+  },
+  {
+    "id": "0003",
+    "name": "Claire Tucker",
+    "transactions": [
+      {
+        "date": "Jan 30, 2023",
+        "amount_spent": 134.71
+      },
+      {
+        "date": "Jan 25, 2023",
+        "amount_spent": 184.23
+      },
+      {
+        "date": "Jan 18, 2023",
+        "amount_spent": 956.37
+      },
+      {
+        "date": "Jan 14, 2023",
+        "amount_spent": 18.58
+      },
+      {
+        "date": "Jan 05, 2023",
+        "amount_spent": 55.71
+      },
+      {
+        "date": "Dec 29, 2022",
+        "amount_spent": 1388.5
+      },
+      {
+        "date": "Dec 21, 2022",
+        "amount_spent": 23.0
+      },
+      {
+        "date": "Dec 18, 2022",
+        "amount_spent": 125.3
+      },
+      {
+        "date": "Dec 14, 2022",
+        "amount_spent": 2315.95
+      },
+      {
+        "date": "Dec 11, 2022",
+        "amount_spent": 1200.29
+      },
+      {
+        "date": "Nov 19, 2022",
+        "amount_spent": 346.42
+      },
+      {
+        "date": "Nov 16, 2022",
+        "amount_spent": 10.46
+      },
+      {
+        "date": "Nov 13, 2022",
+        "amount_spent": 400.99
+      }
+    ]
+  },
+  {
+    "id": "0004",
+    "name": "Shad Hayes",
+    "transactions": [
+      {
+        "date": "Feb 12, 2023",
+        "amount_spent": 47.01
+      },
+      {
+        "date": "Jan 21, 2023",
+        "amount_spent": 189.53
+      },
+      {
+        "date": "Jan 12 , 2023",
+        "amount_spent": 365.85
+      },
+      {
+        "date": "Dec 28, 2022",
+        "amount_spent": 423.0
+      },
+      {
+        "date": "Dec 22, 2022",
+        "amount_spent": 530.3
+      },
+      {
+        "date": "Dec 12, 2022",
+        "amount_spent": 23.0
+      },
+      {
+        "date": "Dec 03, 2022",
+        "amount_spent": 125.38
+      },
+      {
+        "date": "Nov 26, 2022",
+        "amount_spent": 321.45
+      },
+      {
+        "date": "Nov 17, 2022",
+        "amount_spent": 347.27
+      },
+      {
+        "date": "Nov 15, 2022",
+        "amount_spent": 230.27
+      },
+      {
+        "date": "Nov 11, 2022",
+        "amount_spent": 347.27
+      }
+    ]
+  },
+  {
+    "id": "0005",
+    "name": "Adrian Stevenson",
+    "transactions": [
+      {
+        "date": "Jan 22, 2023",
+        "amount_spent": 376.84
+      },
+      {
+        "date": "Jan 12, 2023",
+        "amount_spent": 262.27
+      },
+      {
+        "date": "Dec 26, 2022",
+        "amount_spent": 347.1
+      },
+      {
+        "date": "Dec 24, 2022",
+        "amount_spent": 235.16
+      },
+      {
+        "date": "Dec 19, 2022",
+        "amount_spent": 9.18
+      },
+      {
+        "date": "Dec 17, 2022",
+        "amount_spent": 447.52
+      },
+      {
+        "date": "Dec 8, 2022",
+        "amount_spent": 305.43
+      }
+    ]
+  },
+  {
+    "id": "0006",
+    "name": "Fiona Wiiliams",
+    "transactions": [
+      {
+        "date": "Jan 22, 2023",
+        "amount_spent": 90.84
+      },
+      {
+        "date": "Jan 16, 2023",
+        "amount_spent": 900.27
+      },
+      {
+        "date": "Jan 13, 2023",
+        "amount_spent": 555.27
+      },
+      {
+        "date": "Dec 29, 2022",
+        "amount_spent": 2300.43
+      },
+      {
+        "date": "Dec 23, 2022",
+        "amount_spent": 422.43
+      },
+      {
+        "date": "Dec 17, 2022",
+        "amount_spent": 268.52
+      },
+      {
+        "date": "Nov 20, 2022",
+        "amount_spent": 245.21
+      },
+      {
+        "date": "Nov 12, 2022",
+        "amount_spent": 22.1
+      },
+      {
+        "date": "Nov 05, 2022",
+        "amount_spent": 245.31
+      },
+      {
+        "date": "Nov 01, 2022",
+        "amount_spent": 245.14
+      }
+    ]
+  },
+  {
+    "id": "0007",
+    "name": "John Lennon",
+    "transactions": [
+      {
+        "date": "Feb 11, 2023",
+        "amount_spent": 49.44
+      },
+
+      {
+        "date": "Jan 22, 2023",
+        "amount_spent": 90.84
+      },
+      {
+        "date": "Jan 15, 2023",
+        "amount_spent": 477.27
+      },
+      {
+        "date": "Jan 07, 2023",
+        "amount_spent": 222.27
+      },
+      {
+        "date": "Dec 31, 2022",
+        "amount_spent": 422.43
+      },
+      {
+        "date": "Dec 23, 2022",
+        "amount_spent": 2268.52
+      },
+      {
+        "date": "Nov 29, 2022",
+        "amount_spent": 22.26
+      },
+      {
+        "date": "Nov 23, 2022",
+        "amount_spent": 122.1
+      },
+      {
+        "date": "Nov 21, 2022",
+        "amount_spent": 444.31
+      },
+      {
+        "date": "Nov 12, 2022",
+        "amount_spent": 333.14
+      }
+    ]
+  }
+]
