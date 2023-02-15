@@ -1,3 +1,9 @@
+# UI
+
+![Screenshot](UI_screenshot.png)
+
+
+
 # rewards_calculator
 
 ```
